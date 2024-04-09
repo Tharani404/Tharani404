@@ -4,8 +4,20 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharani404&label=Profile%20views&color=0e75b6&style=flat" alt="tharani404" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+## About me :
+
+- :student: I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in UI/UX design. So,I'm learning **UI/UX teachnologies**
+
+- 📫 Feel free to reach me out **tharaninithya99@gmail.com**
+
+- 😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Mobile Photography(📷).
+
+
+## Connect with me :
+<p align="left">
+  
 <a href="https://instagram.com/tharan_jayathilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharan_jayathilake" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Tharani Jayathilake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Tharani Jayathilake" height="30" width="40" /></a>
 </p>
