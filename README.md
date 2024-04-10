@@ -17,6 +17,8 @@
 
 - 📫 How to reach me tharaninithya99@gmail.com
 
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1rC4lr1MFlo1uZC_wVfinGVdrgAbEPEH3?usp=sharing).
+
 - 😄 <b>Fun fact</b>: Codeing(💻), Traveling(🌍), and Mobile Photography(📷).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
