@@ -6,7 +6,7 @@
 
 ## About me :
 
-- :student: I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- :student: I’m currently learning **REACT, GITHUB and UI/UX teachnologies..**
 
 - ☁️ I've keen interest in UI/UX design. So,I'm learning **UI/UX teachnologies**
 
@@ -19,7 +19,7 @@
 <p align="left">
   
 <a href="https://instagram.com/tharan_jayathilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharan_jayathilake" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Tharani Jayathilake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Tharani Jayathilake" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tharani-jayathilake-1340602b8" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Tharani Jayathilake" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
