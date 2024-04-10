@@ -10,7 +10,7 @@
 
 <h2 align="left"> About me : </h2>
  
-- :student: I’m currently learning **REACT, GITHUB and UI/UX teachnologies..**
+- :student: I’m currently learning **REACT and UI/UX teachnologies..**
 
 - ☁️ I've keen interest in UI/UX design. So,I'm learning **UI/UX teachnologies**
 
@@ -18,7 +18,6 @@
 
 - :thinking: Here is [MY RESUME](https://drive.google.com/drive/folders/1rC4lr1MFlo1uZC_wVfinGVdrgAbEPEH3?usp=sharing).
 
-- 😄 <b>Fun fact</b>: Codeing(💻), Traveling(🌍), and Mobile Photography(📷).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
