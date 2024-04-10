@@ -2,22 +2,22 @@
 <h3 align="center"></h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tharani404&label=Profile%20views&color=0e75b6&style=flat" alt="tharani404" /> </p>
+<p align="right"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <img src="https://komarev.com/ghpvc/?username=tharani404&label=Profile%20views&color=0e75b6&style=flat" alt="tharani404" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
 
- <h2 align="left">About me :</h2>
+<h2 align="left"> About me : </h2>
  
 - :student: I’m currently learning **REACT, GITHUB and UI/UX teachnologies..**
 
 - ☁️ I've keen interest in UI/UX design. So,I'm learning **UI/UX teachnologies**
 
-- 📫 Feel free to reach me out **tharaninithya99@gmail.com**
+- 📫 How to reach me tharaninithya99@gmail.com
 
-- 😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Mobile Photography(📷).
+- 😄 <b>Fun fact</b>: Codeing(💻), Traveling(🌍), and Mobile Photography(📷).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
