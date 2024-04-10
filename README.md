@@ -17,11 +17,13 @@
 - 📫 How to reach me tharaninithya99@gmail.com
 
 - :thinking: Here is [MY RESUME](https://drive.google.com/drive/folders/1rC4lr1MFlo1uZC_wVfinGVdrgAbEPEH3?usp=sharing).
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Tharani404&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharani404&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+
+
+
 
 
 ## Connect with me :
