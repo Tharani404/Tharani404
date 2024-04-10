@@ -5,7 +5,6 @@
 <p align="right"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <img src="https://komarev.com/ghpvc/?username=tharani404&label=Profile%20views&color=0e75b6&style=flat" alt="tharani404" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
 
