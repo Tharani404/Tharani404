@@ -12,7 +12,7 @@
 
 <h2 align="left"> About me : </h2>
  
-- :student: I’m currently learning **REACT and UI/UX teachnologies..**
+- :student: I’m currently learning **Flutter**
 
 - ☁️ I've keen interest in UI/UX design. So,I'm learning **UI/UX teachnologies**
 
